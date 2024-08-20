@@ -1,0 +1,24 @@
+
+.newsletter-subscription {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .newsletter-subscription h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .newsletter-subscription input,
+  .newsletter-subscription select {
+    width: calc(100% - 22px);
+  }
+  
+  .newsletter-subscription button {
+    margin-top: 10px;
+  }
+  

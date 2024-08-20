@@ -1,0 +1,24 @@
+
+.random-graph-api {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .random-graph-api h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .random-graph-api input[type="text"],
+  .random-graph-api input[type="number"] {
+    width: calc(100% - 22px);
+  }
+  
+  .random-graph-api button {
+    margin-top: 10px;
+  }
+  
